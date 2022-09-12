@@ -38,3 +38,12 @@ A data analyst is working for a company that’s about to launch a new product. 
 * First-party customer interviews in focus groups
 
 > In this scenario, the quickest, most accurate, and most relevant method of data collection is first-party data collection using an online survey.
+
+
+### Question 4
+Fill in the blank: In data analytics, a _____ refers to all possible data values in a certain dataset. 
+
+* **population**
+* sample
+* source
+* representation
