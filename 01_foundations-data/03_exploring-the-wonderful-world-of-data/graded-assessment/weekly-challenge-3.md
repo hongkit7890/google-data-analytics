@@ -30,14 +30,15 @@ A data analyst has finished an analysis project that involved private company da
 
 ### Question 3
 
-In the analyze phase of the data life cycle, what might a data analyst do? Select all that apply.
+A data analyst uses a spreadsheet function to aggregate data. Then, they add a pivot table to show totals from least to greatest. This would happen during which stage of the data life cycle?
 
-* **Use a formula to perform calculations**
-* **Use spreadsheets to aggregate data**
-* **Create a report from the data**
-* Choose the format of spreadsheet headings
+* Capture
+* Plan
+* **Analyze**
+* Manage
 
-> In the analyze phase of the data life cycle, a data analyst might use formulas to perform calculations, create a report from the data, or use spreadsheets to aggregate data.
+
+> The analyze stage is when data is used to make good decisions, and a spreadsheet is a very useful tool for supporting that objective.
 
 &nbsp;
 
@@ -69,14 +70,14 @@ A company takes insights provided by its data analytics team, validates them, an
 
 ### Question 6
 
-Fill in the blank: Spreadsheets are _____ that can be used to store, organize, and sort data.
+Fill in the blank: A formula is a set of instructions used to perform a specified calculation; whereas a function is _____.
 
-* **digital worksheets**
-* formulas and functions 
-* interactive dashboards
-* visual representations
+* **a predefined operation**
+* a particular value
+* a computer programming language
+* a question written by the userformulas and functions 
 
-> Spreadsheets are digital worksheets that can be used to store, organize, and sort data.
+> A formula is a set of instructions used to perform a specified calculation; a function is a preset command that automatically performs a specified process.
 
 &nbsp;
 
@@ -95,33 +96,14 @@ Fill in the blank: A formula is a set of instructions used to perform a specifie
 
 ### Question 8
 
-Fill in the blank: A query is used to _____ information from a database. Select all that apply.
+Fill in the blank: To request, retrieve, and update information in a database, data analysts use a ____.
 
-* **update**
-* **request** 
-* **retrieve**
-* analyze
+* calculation
+* **query** 
+* dashboard
+* formula
 
 > A query enables data analysts to request, retrieve, and update information from a database. 
 
 &nbsp;
 
-### Question 9
-
-Structured query language (SQL) enables data analysts to communicate with a database.
-
-* **True**
-* False
-
-> SQL allows a data analyst to communicate with a database in order to retrieve and manipulate data.
-
-&nbsp;
-
-### Question 10
-
-The graphical representation of information helps stakeholders understand data insights. Formulas and functions make this possible.
-
-* True
-* **False**
-
-> The graphical representation of information is made possible by data visualization tools. These tools help stakeholders understand data insights.
